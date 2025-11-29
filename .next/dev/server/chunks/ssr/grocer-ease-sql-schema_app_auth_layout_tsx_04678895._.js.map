@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Terryl%20Jean/Downloads/grocer-ease-sql-schema/app/auth/layout.tsx"],"sourcesContent":["import type React from \"react\"\nexport default function AuthLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return (\n    <div className=\"min-h-screen bg-linear-to-br from-primary-light via-background to-secondary-light flex items-center justify-center px-4\">\n      <div className=\"w-full max-w-md\">{children}</div>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AACe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,iRAAC;QAAI,WAAU;kBACb,cAAA,iRAAC;YAAI,WAAU;sBAAmB;;;;;;;;;;;AAGxC"}}]
+}

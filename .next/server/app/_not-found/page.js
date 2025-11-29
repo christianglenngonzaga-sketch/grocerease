@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3301f70b._.js")
+R.c("server/chunks/ssr/d56ea_next_dist_4eed0470._.js")
+R.c("server/chunks/ssr/d56ea_next_dist_esm_build_templates_app-page_6ad57b6c.js")
+R.c("server/chunks/ssr/[root-of-the-server]__ffa42733._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__4cc25a2e._.js")
+R.c("server/chunks/ssr/d56ea_next_dist_1edba99f._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__34ad223c._.js")
+R.c("server/chunks/ssr/d56ea_next_dist_client_components_6c6de627._.js")
+R.c("server/chunks/ssr/d56ea_next_dist_client_components_builtin_forbidden_156248f9.js")
+R.c("server/chunks/ssr/0ffa5_rocer-ease-sql-schema__next-internal_server_app__not-found_page_actions_77a9a23c.js")
+R.m(89723)
+module.exports=R.m(89723).exports

@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/items/route.js")
+R.c("server/chunks/d56ea_next_05cb64e4._.js")
+R.c("server/chunks/d56ea_mysql2_f9c8eec5._.js")
+R.c("server/chunks/d56ea_iconv-lite_d73bd292._.js")
+R.c("server/chunks/d56ea_aws-ssl-profiles_lib_725236d5._.js")
+R.c("server/chunks/d56ea_35470a8b._.js")
+R.c("server/chunks/[root-of-the-server]__44ef1c33._.js")
+R.c("server/chunks/0ffa5_rocer-ease-sql-schema__next-internal_server_app_api_items_route_actions_e7a817b5.js")
+R.m("[project]/grocer-ease-sql-schema/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/grocer-ease-sql-schema/app/api/items/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/grocer-ease-sql-schema/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/grocer-ease-sql-schema/app/api/items/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

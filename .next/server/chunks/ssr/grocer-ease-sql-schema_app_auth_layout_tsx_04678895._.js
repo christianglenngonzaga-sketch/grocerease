@@ -1,0 +1,3 @@
+module.exports=[1209,a=>{"use strict";var b=a.i(66631);function c({children:a}){return(0,b.jsx)("div",{className:"min-h-screen bg-linear-to-br from-primary-light via-background to-secondary-light flex items-center justify-center px-4",children:(0,b.jsx)("div",{className:"w-full max-w-md",children:a})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=grocer-ease-sql-schema_app_auth_layout_tsx_04678895._.js.map
