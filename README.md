@@ -1,6 +1,3 @@
-Below is the **final README.md FORMAT** — fully structured, markdown-ready, and no extra explanations.
-
----
 
 # **GrocerEase**
 
